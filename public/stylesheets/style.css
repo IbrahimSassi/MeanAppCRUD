@@ -1,0 +1,32 @@
+footer{
+    background: #333;
+    color:#fff;
+    height: 40px;
+    padding-top: 10px ;
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+.heading{
+    background: #2980b9;
+    color: aliceblue;
+    padding: 5px
+    
+}
+
+.article{
+    border-bottom: #c33a2c solid 1px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+
+.panel-heading span{
+    font-size: 32px;
+}
+.title {
+    border-left: #e74c3c solid 2px ;
+    
+   
+
+}
